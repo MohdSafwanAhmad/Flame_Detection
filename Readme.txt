@@ -13,14 +13,7 @@ I have also added the frozen_inference_graph.pb and  label_map.pbtxt files here.
 
 Note: Output of the main python script provides us the values of the coordinates. 
 
-
-2. If it doesn’t work, do the following:
-
-a. log in to my computer and go to Home>project1>Tensorflow>models>research>object_detection and right click and click on open in terminal.
-b. Open jupyter notebook in the terminal.
-c. open flame_detection_model.ipynb and run it.
-
-3. Preparing the dataset:
+2. Preparing the dataset:
 a. Creation of video – Circle_Generation_v2.m
 b. Splitting video to images to use for labeling – split_video.py
 c. Use LabelImg to make bounding boxes

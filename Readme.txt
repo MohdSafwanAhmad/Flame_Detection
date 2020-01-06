@@ -11,7 +11,7 @@ PATH_TO_LABELS = os.path.join('training', 'label_map.pbtxt')
 
 I have also added the frozen_inference_graph.pb and  label_map.pbtxt files here.
 
-Note: Output of the main python script provides us the values of the coordinates. 
+Note: Output of the main python script provides us with the values of the coordinates. 
 
 2. Preparing the dataset:
 a. Creation of video – Circle_Generation_v2.m
